@@ -18,7 +18,7 @@ This is a PyTorch implementation of deep learning (DL)-based parameterization mo
 ![](https://github.com/njujinchun/DL-para/blob/main/images/reconstruction.png)
 
 # Datasets
-The dataset used in DL model has been uploaded to [Google Drive](https://drive.google.com/drive/folders/1mi9Cmgnufi3kSMCeedP7G_K-4aEcd3_A?usp=drive_link) and can be downloaded using this link.
+The dataset used in DL model has been uploaded to [Google Drive]() and can be downloaded using this link.
 
 # Network Training
 ```
